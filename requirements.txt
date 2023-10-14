@@ -1,0 +1,42 @@
+accelerate==0.23.0
+annotated-types==0.6.0
+anyio==3.7.1
+bitsandbytes==0.41.1
+Brotli @ file:///home/conda/feedstock_root/build_artifacts/brotli-split_1695989787169/work
+certifi==2023.7.22
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1696431134479/work
+exceptiongroup==1.1.3
+filelock @ file:///home/conda/feedstock_root/build_artifacts/filelock_1694629184119/work
+fsspec==2023.9.2
+gmpy2 @ file:///home/conda/feedstock_root/build_artifacts/gmpy2_1666808654411/work
+huggingface-hub==0.17.3
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1654302431367/work
+MarkupSafe @ file:///home/conda/feedstock_root/build_artifacts/markupsafe_1695367434228/work
+mpmath @ file:///home/conda/feedstock_root/build_artifacts/mpmath_1678228039184/work
+networkx @ file:///home/conda/feedstock_root/build_artifacts/networkx_1680692919326/work
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1695290862901/work/dist/numpy-1.26.0-cp310-cp310-linux_x86_64.whl#sha256=44509c98ccedaff13cf312f80a8e392a35d5f649bdf63f1b7e705fdfdc621c6d
+packaging==23.2
+peft==0.5.0
+Pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1675487172403/work
+psutil==5.9.5
+pydantic==2.4.2
+pydantic_core==2.10.1
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+PyYAML @ file:///home/conda/feedstock_root/build_artifacts/pyyaml_1695373428874/work
+regex==2023.10.3
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1684774241324/work
+safetensors==0.4.0
+scipy==1.11.3
+sniffio==1.3.0
+starlette==0.27.0
+sympy @ file:///home/conda/feedstock_root/build_artifacts/sympy_1684180540116/work
+tokenizers==0.14.1
+torch==2.1.0
+torchaudio==2.1.0
+torchvision==0.16.0
+tqdm==4.66.1
+transformers==4.34.0
+triton==2.1.0
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1695040754690/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1696434355823/work
